@@ -1,9 +1,9 @@
 <script setup>
-import ntcImage from '../../assets/images/ntc_login_1.png';
+import ntcImage from '../../assets/images/ntc_login_1.PNG';
 import ntxImage2 from '../../assets/images/ntc_login_2.png';
-import kicTech from '../../assets/images/kim_tech.png';
+import kicTech from '../../assets/images/kim_tech.PNG';
 import respiratoryZone from '../../assets/images/respiratory.PNG';
-import countyMedical from '../../assets/images/county_medical.png';
+import countyMedical from '../../assets/images/county_medical.PNG';
 const projects = [
     {
         title: 'University Accreditation Management System',
