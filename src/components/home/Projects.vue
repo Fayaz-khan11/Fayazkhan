@@ -2,7 +2,7 @@
 import ntcImage from '../../assets/images/ntc_login_1.png';
 import ntxImage2 from '../../assets/images/ntc_login_2.png';
 import kicTech from '../../assets/images/kim_tech.png';
-import respiratoryZone from '../../assets/images/respiratory.png';
+import respiratoryZone from '../../assets/images/respiratory.PNG';
 import countyMedical from '../../assets/images/county_medical.png';
 const projects = [
     {
