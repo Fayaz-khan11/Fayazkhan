@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 import { Send, Phone, MapPin ,Mail ,ExternalLink ,Github ,Linkedin ,Twitter } from 'lucide-vue-next'
-import emailjs from 'emailjs-com',
+import emailjs from 'emailjs-com'
 
 const form = ref({
   name: '',
