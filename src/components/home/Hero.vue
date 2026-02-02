@@ -43,7 +43,7 @@ const contact_nav = [
               <a href="https://github.com/Fayaz-khan11" class="p-3 rounded-full bg-white shadow-md hover:shadow-lg transition-shadow">
                 <Github class="h-5 w-5 text-gray-700" />
               </a>
-              <a href="www.linkedin.com/in/fayaz-khan-320604213" class="p-3 rounded-full bg-white shadow-md hover:shadow-lg transition-shadow">
+              <a href="https://www.linkedin.com/in/fayaz-khan-320604213/" class="p-3 rounded-full bg-white shadow-md hover:shadow-lg transition-shadow">
                 <Linkedin class="h-5 w-5 text-gray-700" />
               </a>
             </div>

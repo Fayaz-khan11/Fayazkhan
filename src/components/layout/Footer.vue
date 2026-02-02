@@ -34,7 +34,7 @@ import { Twitter ,Linkedin, Github, Code2 } from 'lucide-vue-next'
               <a href="https://github.com/Fayaz-khan11" target="_blank" class="p-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors">
                 <Github class="h-5 w-5" />
               </a>
-              <a href="www.linkedin.com/in/fayaz-khan-320604213" target="_blank" class="p-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors">
+              <a href="https://www.linkedin.com/in/fayaz-khan-320604213/" target="_blank" class="p-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors">
                 <Linkedin class="h-5 w-5" />
               </a>
               <a href="" class="p-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors">
