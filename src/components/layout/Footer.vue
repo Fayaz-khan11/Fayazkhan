@@ -45,7 +45,7 @@ import { Twitter ,Linkedin, Github, Code2 } from 'lucide-vue-next'
         </div>
 
         <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {{ new Date().getFullYear() }} Your Name. All rights reserved.</p>
+          <p>&copy; {{ new Date().getFullYear() }} Fayaz khan. All rights reserved.</p>
         </div>
       </div>
     </footer>
